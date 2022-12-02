@@ -1,0 +1,131 @@
+
+.main-header{
+   background-color:rgb(58, 58, 63);
+   
+    background-size: cover;
+    background-position: center;
+    color:rgb(235, 229, 224);
+}
+
+
+
+.sign-header{
+    background-color:rgb(58, 58, 63);
+   
+    background-size: cover;
+    background-position: center;
+    color:rgb(235, 229, 224);
+}
+
+.background{
+    min-height: 200px;
+    background-position: center;
+  
+}
+
+.divider{
+
+    background-color: black;
+    
+}
+
+
+.account{
+    height: 100%;
+    width: 100%;
+    background-image: url(s3.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+.form-box{
+    width: 380px;
+    height: 580px;
+    position: relative;
+    margin: 6% auto;
+    background-color: rgba(247, 245, 238, 0.897);
+    padding: 5px;
+}
+
+#login{
+padding-top: 10px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 500;
+}
+
+
+.social-icons{
+
+    text-align: center;
+
+}
+
+
+
+
+.nav-wrapper{
+    background-color: black;
+}
+
+.input-group{
+    height: 50%;
+    width: fit-content;
+    color: black;
+}
+
+.submit-btn{
+    
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    border: 0;
+    outline: none;
+    background-color: rgb(17, 17, 17);
+    text-align: center;
+    text-decoration: double;
+    color: rgb(255, 251, 251);
+
+}
+
+
+
+.page-footer{
+
+    background-color:rgb(58, 58, 63);
+}
+
+#icons{
+    font-size: larger;
+    color: beige;
+}
+
+
+    blockquote {
+        border-left: 5px solid #000000;
+    }
+
+
+    #maps{
+        padding-right: 1300px;
+        padding-top: 20px;
+        width: fit-content;
+        text-align:right;
+        
+      
+    }
+    #hotelname{
+        width: 10000px;
+
+    }
+
+
+    #cards{
+
+        padding-top: 20px;
+    }
+
+    
